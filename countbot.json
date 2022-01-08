@@ -1,0 +1,7 @@
+[
+    {
+        "name": "CountBot",
+        "cwd": "./src",
+        "script": "index.js"
+    }
+]
